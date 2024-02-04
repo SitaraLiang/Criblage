@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "affichage.h": "c",
-        "criblage.h": "c",
-        "appartenance.h": "c"
-    },
-    "C_Cpp.errorSquiggles": "disabled"
-}
