@@ -1,4 +1,4 @@
-# Unistra L2S3 SDA Final Exam 
+# Criblage
 
 <div align="center">
   <img src="https://i.imgur.com/nhF6TbO.png" alt="Figure1" width="80%"/>
