@@ -23,4 +23,4 @@ archive:
 	tar cfJ archive.tar.xz $(SRC_DIR) $(INCLUDE_DIR) $(OBJ_DIR) Doxyfile
 
 clean:
-	rm -rf $(OBJ_DIR)/*.o $(EXEC) doc archive.tar archive
+	rm -rf $(OBJ_DIR)/*.o $(EXEC) doc archive.tar.xz archive
